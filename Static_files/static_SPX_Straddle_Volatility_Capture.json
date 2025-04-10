@@ -1,0 +1,10 @@
+{
+    "SPX_Straddle_Volatility_Capture": {
+        "inception_date": "3jan23",
+        "end_date": "15nov24",
+        "inception_level": 100,
+        "vega_weight": 0.00015873,
+        "holiday_file": "C:\\Users\\ritvi\\OneDrive\\Desktop\\Ritvij_Projects\\SPX_Straddle_Volatility_Capture\\holidays_spx.xlsx",
+        "underlying_file": "C:\\Users\\ritvi\\OneDrive\\Desktop\\Ritvij_Projects\\SPX_Straddle_Volatility_Capture\\mocked_SPX Index_options_data_20230103_20241115.xlsx"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "SPX_Straddle_Volatility_Capture": {
+        "date": "2023-01-03",
+        "index_levels": 100,
+        "result": {
+            "sv_2023-01-03_2023-03-17": {
+                "call": {
+                    "start_date": "2023-01-03",
+                    "strike": 3800,
+                    "maturity": "2023-03-17",
+                    "units": -0.0011706949942962557,
+                    "delta_t": 0.5449914628867271,
+                    "gamma": 0.0010099575241632086,
+                    "vega": 677.9306342529378,
+                    "tau": 0.2,
+                    "option_price_t": 168.39,
+                    "underlying_price_t": 3824.14
+                },
+                "put": {
+                    "start_date": "2023-01-03",
+                    "strike": 3800,
+                    "maturity": "2023-03-17",
+                    "units": -0.0011706949942962557,
+                    "delta_t": -0.45500853711327294,
+                    "gamma": 0.0010099575241632086,
+                    "vega": 677.9306342529378,
+                    "tau": 0.2,
+                    "option_price_t": 144.25,
+                    "underlying_price_t": 3824.14
+                }
+            }
+        }
+    }
+}
